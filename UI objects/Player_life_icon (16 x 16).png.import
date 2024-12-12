@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bv2gesk5acstw"
-path="res://.godot/imported/Space_BG (2 frames) (64 x 64).png-6584493e06c287dfc979c98f7663edca.ctex"
+uid="uid://ci8bou15ajbhr"
+path="res://.godot/imported/Player_life_icon (16 x 16).png-3231f88cd031e3213b4876eff5ace418.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Space_BG (2 frames) (64 x 64).png"
-dest_files=["res://.godot/imported/Space_BG (2 frames) (64 x 64).png-6584493e06c287dfc979c98f7663edca.ctex"]
+source_file="res://UI objects/Player_life_icon (16 x 16).png"
+dest_files=["res://.godot/imported/Player_life_icon (16 x 16).png-3231f88cd031e3213b4876eff5ace418.ctex"]
 
 [params]
 

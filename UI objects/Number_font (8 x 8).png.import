@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ci8bou15ajbhr"
-path="res://.godot/imported/Player_life_icon (16 x 16).png-1ddd8c89474b8328ba1d358326b07366.ctex"
+uid="uid://bxrh8y6x1oujf"
+path="res://.godot/imported/Number_font (8 x 8).png-01fcc8af1fc4d131e5ab23e0088fb7dd.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/Player_life_icon (16 x 16).png"
-dest_files=["res://.godot/imported/Player_life_icon (16 x 16).png-1ddd8c89474b8328ba1d358326b07366.ctex"]
+source_file="res://UI objects/Number_font (8 x 8).png"
+dest_files=["res://.godot/imported/Number_font (8 x 8).png-01fcc8af1fc4d131e5ab23e0088fb7dd.ctex"]
 
 [params]
 

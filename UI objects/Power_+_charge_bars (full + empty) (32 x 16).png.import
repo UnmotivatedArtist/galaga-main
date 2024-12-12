@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cw4ggdfttyoi2"
-path="res://.godot/imported/GAME_OVER (72 x 8).png-654ae4284ef69e0132c4bdbe421f1b00.ctex"
+uid="uid://brg0nb6s03ykt"
+path="res://.godot/imported/Power_+_charge_bars (full + empty) (32 x 16).png-7ecbc837b36aecfffa13eb70c660675d.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/GAME_OVER (72 x 8).png"
-dest_files=["res://.godot/imported/GAME_OVER (72 x 8).png-654ae4284ef69e0132c4bdbe421f1b00.ctex"]
+source_file="res://UI objects/Power_+_charge_bars (full + empty) (32 x 16).png"
+dest_files=["res://.godot/imported/Power_+_charge_bars (full + empty) (32 x 16).png-7ecbc837b36aecfffa13eb70c660675d.ctex"]
 
 [params]
 

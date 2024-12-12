@@ -1,13 +1,13 @@
 [gd_scene load_steps=4 format=3 uid="uid://caqdwtfmn13dv"]
 
 [ext_resource type="Texture2D" uid="uid://goav3f5cnufc" path="res://Assets/Projectiles/Player_charged_beam (16 x 16).png" id="1_6xoyq"]
-[ext_resource type="Script" path="res://Scripts/laser.gd" id="1_yqj3y"]
+[ext_resource type="Script" path="res://Scripts/laser.gd" id="1_107mh"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_iwk4y"]
 size = Vector2(12, 12)
 
 [node name="Laser" type="Area2D"]
-script = ExtResource("1_yqj3y")
+script = ExtResource("1_107mh")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_6xoyq")

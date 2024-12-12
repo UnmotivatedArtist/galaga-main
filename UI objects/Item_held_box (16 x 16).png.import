@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cyv3e21ev1o15"
-path="res://.godot/imported/START (48 x 8).png-6a53ada07d9b57afc7b954f54d860fc9.ctex"
+uid="uid://c30ars5escvi6"
+path="res://.godot/imported/Item_held_box (16 x 16).png-42ba4ce379cb3935e312971e169d1c97.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/START (48 x 8).png"
-dest_files=["res://.godot/imported/START (48 x 8).png-6a53ada07d9b57afc7b954f54d860fc9.ctex"]
+source_file="res://UI objects/Item_held_box (16 x 16).png"
+dest_files=["res://.godot/imported/Item_held_box (16 x 16).png-42ba4ce379cb3935e312971e169d1c97.ctex"]
 
 [params]
 

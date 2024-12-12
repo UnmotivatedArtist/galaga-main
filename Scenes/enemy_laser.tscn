@@ -1,0 +1,21 @@
+[gd_scene load_steps=4 format=3 uid="uid://dll8mfmrq8f4k"]
+
+[ext_resource type="Script" path="res://Scripts/enemy_laser.gd" id="1_17k4b"]
+[ext_resource type="Texture2D" uid="uid://b2xbwraf7wa2b" path="res://Assets/Projectiles/Enemy_projectile (16 x 16).png" id="2_ae6m4"]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_1tnhi"]
+
+[node name="EnemyLaser" type="Area2D"]
+script = ExtResource("1_17k4b")
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("2_ae6m4")
+hframes = 4
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("CircleShape2D_1tnhi")
+
+[node name="VisibleOnScreenEnabler2D" type="VisibleOnScreenEnabler2D" parent="."]
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="screen_exited" from="VisibleOnScreenEnabler2D" to="." method="_on_visible_on_screen_enabler_2d_screen_exited"]

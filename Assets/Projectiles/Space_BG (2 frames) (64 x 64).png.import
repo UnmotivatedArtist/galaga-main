@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://brg0nb6s03ykt"
-path="res://.godot/imported/Power_+_charge_bars (full + empty) (32 x 16).png-6cd646f0124fbe9fd38c12bd977d5aed.ctex"
+uid="uid://bv2gesk5acstw"
+path="res://.godot/imported/Space_BG (2 frames) (64 x 64).png-e65a04af92d0c4fc3ef7b7fd4582f6e8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/Power_+_charge_bars (full + empty) (32 x 16).png"
-dest_files=["res://.godot/imported/Power_+_charge_bars (full + empty) (32 x 16).png-6cd646f0124fbe9fd38c12bd977d5aed.ctex"]
+source_file="res://Assets/Projectiles/Space_BG (2 frames) (64 x 64).png"
+dest_files=["res://.godot/imported/Space_BG (2 frames) (64 x 64).png-e65a04af92d0c4fc3ef7b7fd4582f6e8.ctex"]
 
 [params]
 

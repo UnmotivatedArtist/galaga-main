@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://c30ars5escvi6"
-path="res://.godot/imported/Item_held_box (16 x 16).png-e16c1a8069a8bb057ab4b638ac0017b4.ctex"
+uid="uid://cw4ggdfttyoi2"
+path="res://.godot/imported/GAME_OVER (72 x 8).png-631ff8d6684fdf3c5f5a480127620dd6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/Item_held_box (16 x 16).png"
-dest_files=["res://.godot/imported/Item_held_box (16 x 16).png-e16c1a8069a8bb057ab4b638ac0017b4.ctex"]
+source_file="res://UI objects/GAME_OVER (72 x 8).png"
+dest_files=["res://.godot/imported/GAME_OVER (72 x 8).png-631ff8d6684fdf3c5f5a480127620dd6.ctex"]
 
 [params]
 

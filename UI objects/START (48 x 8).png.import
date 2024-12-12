@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://bxrh8y6x1oujf"
-path="res://.godot/imported/Number_font (8 x 8).png-db59e3d4e1a2ad7ce9c7e7d17785357b.ctex"
+uid="uid://cyv3e21ev1o15"
+path="res://.godot/imported/START (48 x 8).png-e527c5aff8232d314f5a9312d8e56d92.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/UI objects/Number_font (8 x 8).png"
-dest_files=["res://.godot/imported/Number_font (8 x 8).png-db59e3d4e1a2ad7ce9c7e7d17785357b.ctex"]
+source_file="res://UI objects/START (48 x 8).png"
+dest_files=["res://.godot/imported/START (48 x 8).png-e527c5aff8232d314f5a9312d8e56d92.ctex"]
 
 [params]
 

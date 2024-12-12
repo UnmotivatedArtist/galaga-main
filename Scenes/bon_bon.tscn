@@ -1,7 +1,7 @@
 [gd_scene load_steps=9 format=3 uid="uid://cjd7bagh3sq4w"]
 
 [ext_resource type="Texture2D" uid="uid://is88xgu7fv1b" path="res://Assets/Enemies/Bon_Bon (16 x 16).png" id="1_ksvfo"]
-[ext_resource type="Script" path="res://Scripts/bon_bon.gd" id="1_uqgtw"]
+[ext_resource type="Script" path="res://Scripts/bon_bon.gd" id="1_t8d53"]
 [ext_resource type="Texture2D" uid="uid://nv1ady6ba44c" path="res://Assets/Effects/Explosion (16 x 16).png" id="3_6hcxb"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_eby23"]
@@ -171,7 +171,7 @@ _data = {
 }
 
 [node name="Bon-bon" type="Area2D" groups=["enemies"]]
-script = ExtResource("1_uqgtw")
+script = ExtResource("1_t8d53")
 
 [node name="Sprite2D" type="Sprite2D" parent="."]
 texture = ExtResource("1_ksvfo")
@@ -194,6 +194,7 @@ one_shot = true
 one_shot = true
 
 [node name="Explosion" type="Sprite2D" parent="."]
+visible = false
 texture = ExtResource("3_6hcxb")
 hframes = 6
 
